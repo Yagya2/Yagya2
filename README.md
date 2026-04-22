@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Replace this link with your cartoon image link when you upload it to your repo -->
+  <!-- The image below will appear perfectly once you upload the picture from your Desktop to your GitHub repo! -->
   <img src="cartoon_boy_developer_banner.png" alt="Cartoon Developer" width="100%" style="border-radius: 15px;" />
 
   # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"> I'm Yagya
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=💻+Full+Stack+Developer;🚀+Always+learning+new+things;🎨+Love+building+cool+UIs;✨+Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=💻+Full+Stack+Developer;🚀+Always+learning+new+things;🎨+Love+building+cool+UIs;✨+Open+Source+Contributor" alt="Typing SVG" /></a>
 </div>
 
 <br/>
