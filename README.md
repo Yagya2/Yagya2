@@ -1,7 +1,6 @@
 <div align="center">
   <!-- The image below will appear perfectly once you upload the picture from your Desktop to your GitHub repo! -->
-  <img src="aleksandr-popov-fa5QQ63u5W4-unsplash.jpg
-" alt="Cartoon Developer" width="100%" style="border-radius: 15px;" />
+  <img src="aleksandr-popov-fa5QQ63u5W4-unsplash.jpg" alt="Cartoon Developer" width="100%" style="border-radius: 15px;" />
 
   # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="30px"> I'm Yagya
   
